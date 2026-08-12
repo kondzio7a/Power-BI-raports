@@ -1,4 +1,4 @@
-Apartments & Clients Power BI Dashboard
+# Apartments & Clients Power BI Dashboard
 
 This project presents an interactive Power BI dashboard focused on the analysis of apartments and clients.
 
@@ -6,16 +6,16 @@ The main goal of the project is to transform raw data into a clear and useful re
 
 The dashboard was created using Power BI, with data preparation performed in Power Query and calculations created using DAX.
 
-Tools & Technologies
+## Tools & Technologies
 - Power BI – dashboard design and data visualization
 - Power Query – data cleaning and transformation
 - DAX – measures, calculations, and KPIs
 
-Dataset Description
+## Dataset Description
 
 The dataset contains information about apartment sales and customers. It combines property transaction details with customer demographic and purchase-related information, making it suitable for sales, customer, and real estate analysis in Power BI.
 
-The dataset "Product" contains approximately 267 records and includes information such as:
+The dataset *"Product"* contains approximately 267 records and includes information such as:
 
 - Product ID – unique identifier of the apartment
 - Building – building number
@@ -27,7 +27,7 @@ The dataset "Product" contains approximately 267 records and includes informatio
 - Price – selling price of the apartment
 - Status – current sales status of the property
 
-The dataset "Customer" contains approximately 197 records and includes information such as:
+The dataset *"Customer"* contains approximately 197 records and includes information such as:
 - Customer ID – unique customer identifier
 - Entity – type of customer, for example Individual
 - Name and Surname – customer information
@@ -42,7 +42,7 @@ The dataset "Customer" contains approximately 197 records and includes informati
 - Mortgage – indicates whether the purchase was financed with a mortgage
 - Source – channel through which the customer was acquired, such as Website, Agency, or Client
 
-Project Workflow
+## Project Workflow
 - Importing data into Power BI
 - Cleaning and transforming data using Power Query
 - Creating relationships between tables
@@ -51,15 +51,15 @@ Project Workflow
 - Adding filters and visualizations to make the report easy to explore
 - Publishing the final Power BI report
 
-*Dashboard*
+## Dashboard
 
 The dashboard provides an overview of apartment and client data and allows users to interact with the report using filters and visualizations.
 
-Power BI Report
+## Power BI Report
 
 View the interactive Power BI report
 
-Project Goal
+## Project Goal
 The purpose of this project is to practice and demonstrate skills in:
 - Data preparation
 - Data modeling
