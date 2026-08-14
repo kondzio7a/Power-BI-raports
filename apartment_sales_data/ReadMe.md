@@ -68,3 +68,7 @@ The purpose of this project is to practice and demonstrate skills in:
 - Power Query
 - Dashboard design
 - Data visualization in Power BI
+
+## Dashboard Preview
+<img width="1485" height="831" alt="image" src="https://github.com/user-attachments/assets/f71592f5-ffc5-4eb6-a7d5-1c3917fe9acb" />
+
