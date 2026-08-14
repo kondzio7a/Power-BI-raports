@@ -57,7 +57,7 @@ The dashboard provides an overview of apartment and client data and allows users
 
 ## Power BI Report
 
-[View the interactive Power BI report **Temporarily my Linkedin**](https://www.linkedin.com/in/konrad-angelo-79384a278/)
+[View the interactive Power BI report]([https://www.linkedin.com/in/konrad-angelo-79384a278/](https://app.powerbi.com/view?r=eyJrIjoiZDBhZjg1M2QtYTc4ZC00YjM3LWFmMTUtODY5MTczMmM0ZTM5IiwidCI6ImIyMDVjMWE5LTAwZTItNDIzMi1iYTkwLTNhN2NmOTEwMWU3NiJ9))
 
 ## Project Goal
 The purpose of this project is to practice and demonstrate skills in:
